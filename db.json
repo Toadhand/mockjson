@@ -41,14 +41,14 @@
     "FullName": "Магомед Омаров",
     "Region": "Иркутская область",
     "PhoneNumber": "89080213074",
-    "Email": "Strelok@mail.ru",
+    "Email": "Strelok@mail.ru"
   },
   {
     "ID": 2,
     "FullName": "Иван Федорович",
     "Region": "Красноярский край",
     "PhoneNumber": "89149064089",
-    "Email": "Archerymaster01@yandex.ru",
+    "Email": "Archerymaster01@yandex.ru"
   }
   ]
 }
